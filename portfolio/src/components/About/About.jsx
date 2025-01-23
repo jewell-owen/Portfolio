@@ -1,53 +1,57 @@
 import React from "react";
 
 import styles from "./About.module.css";
+import iowaStateLogo from "../../../assets/about/iowaStateLogo.png";
 import cursorIcon from "../../../assets/about/cursorIcon.png";
+import serverIcon from "../../../assets/about/serverIcon.png";
+import uiIcon from "../../../assets/about/uiIcon.png";
 
 export const About = () => {
     return (
-        <section>
-            <h2>About</h2>
-            <div>
+        <section className={styles.container} id="about">
+            <h2 className={styles.title}>About</h2>
+            <div className={styles.content}>
             <img 
-                src={cursorIcon}
+                src={iowaStateLogo}
                 alt="About Image"
+                className={styles.aboutImage}
                 >
             </img>
-            <ul>
-                <li>
+            <ul className={styles.aboutItems}>
+                <li className={styles.aboutItem}>
                     <img
                         src={cursorIcon}
                         alt="Cursor Icon">
                     </img>
-                    <div>
-                        <h3>Frontened Developer</h3>
+                    <div className={styles.aboutItemsText}>
+                        <h3>Iowa State University</h3>
                         <p>
-                            I'm a frontend developer with experince in devloping fast and useful websites.
+                            Expected Graduation 2026<br></br>
+                            GPA: 3.8
                         </p>
                     </div>
                 </li>
-                <li>
+                <li className={styles.aboutItem}>
                     <img
-                        src={cursorIcon}
-                        alt="Cursor Icon">
+                        src={serverIcon}
+                        alt="Server Icon">
                     </img>
-                    <div>
-                        <h3>Backend Developer</h3>
+                    <div className={styles.aboutItemsText}>
+                        <h3>Computer Engineering Major</h3>
                         <p>
-                            I'm a backend developer with experince in devloping smart databases and working with API's.
+                            I have experince working with both hardware and software throughout my classwork
                         </p>
                     </div>
                 </li>
-
-                <li>
+                <li className={styles.aboutItem}>
                     <img
-                        src={cursorIcon}
-                        alt="Cursor Icon">
+                        src={uiIcon}
+                        alt="UI Icon">
                     </img>
-                    <div>
-                        <h3>UI Designer</h3>
+                    <div className={styles.aboutItemsText}>
+                        <h3>Applied AI Minor</h3>
                         <p>
-                            I'm a UI designer with experince in devloping appealing and easy to use applications.
+                            After completing my minor, I will have experince with AI programming, AI ethics, and machine learning
                         </p>
                     </div>
                 </li>
@@ -56,5 +60,5 @@ export const About = () => {
             
 
         </section>
-    )
-}
+    );
+};

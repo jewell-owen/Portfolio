@@ -59,6 +59,7 @@
     object-fit: cover;
     aspect-ratio: 40 / 40;
     z-index: 1;
+    margin-left: 2%;
 
     animation-name: floating;
     animation-duration: 3s;
@@ -83,9 +84,9 @@
     width: 50vw;
     height: 50vw;
     min-width: 350px;
-    min-height: 350px;
-    top: -12px;
-    left: 10vw;
+    min-width: 350px;
+    top: -128px;
+    left: -10vw;
     border-radius: 764px;
     background: rgba(25,55,109,0.7);
     filter: blur(100px);
@@ -96,10 +97,10 @@
     position: absolute;
     width: 70vw;
     height: 50vw;
-    min-width: 250px;
-    min-height: 350px;
+    min-width: 350px;
+    min-height: 250px;
     top: 246px;
-    right: -25vw;
+    right: -7vw;
     border-radius: 764px;
     background: rgba(25,55,109,0.7);
     filter: blur(100px);
@@ -111,7 +112,11 @@
         flex-direction: column-reverse;
     }
 
-    .contet {
+    .content {
         align-items: center;
+    }
+
+    .heroImg {
+        margin-left: 0;
     }
 }
