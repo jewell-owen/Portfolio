@@ -8,14 +8,6 @@
       "source": "https://github.com/jewell-owen/FitTrack"
     },
     {
-      "title": "Adoptm",
-      "imageSrc": "projects/AdoptmSrc.png",
-      "description": "This pet adoption app was created in Android Studio using Java. The project group followed the SCRUM model with an issue board, sprints, and code reviews. GitLab CI/CD was used for faster testing and devlopment.",
-      "skills": ["Java", "Spring Boot", "Postman", "Volley", "Android Studio"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com/jewell-owen/Adoptm"
-    },
-    {
       "title": "Cookbook Web App",
       "imageSrc": "projects/CookbookSrc.png",
       "description": "This cookbook application was created using the MERN stack. MongoDB, Express, React.JS, Node.JS. The app allows users to view, post, and edit the information for recipes including ingredients, instructions, and pictures.",
@@ -24,9 +16,17 @@
       "source": "https://www.github.com/jewell-owen/CookBookWebApplication"
     },
     {
+      "title": "Adoptm",
+      "imageSrc": "projects/AdoptmSrc.png",
+      "description": "This pet adoption app frontend was created in Android Studio using Java. The backend was created with Spring Boot in Java. The project group followed the SCRUM model with an issue board, sprints, and code reviews. GitLab CI/CD was used for faster testing and devlopment.",
+      "skills": ["Java", "Spring Boot", "Postman", "Volley", "Android Studio"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/jewell-owen/Adoptm"
+    },
+    {
       "title": "MIPS Processor",
       "imageSrc": "projects/processorSrc.png",
-      "description": "This hardware model of a MIPS processor was created using VHDL. The project included both a software and hardware pipelined version. The pipeline is 5 stages and makes use of data forwarding. The hardware pipeline includes static branch prediction. ",
+      "description": "This hardware model of a MIPS processor was created using VHDL. The project included both a software and hardware pipelined version. The pipeline is 5 stages and makes use of data forwarding. The hardware pipeline includes static branch prediction with a max clock frequency of 44.48 MHz and a cycle time of 22.48 ns. ",
       "skills": ["VHDL", "MIPS Assembly"],
       "demo": "projects/processorSrc.png",
       "source": "https://www.github.com/jewell-owen/MIPS-Single-Cycle-Processor"
