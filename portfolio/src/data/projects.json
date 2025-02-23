@@ -11,9 +11,9 @@
       "title": "Adoptm",
       "imageSrc": "projects/AdoptmSrc.png",
       "description": "This pet adoption app was created in Android Studio using Java. The project group followed the SCRUM model with an issue board, sprints, and code reviews. GitLab CI/CD was used for faster testing and devlopment.",
-      "skills": ["Java", "Spring Boot", "Postman", "REST API", "Android Studio"],
+      "skills": ["Java", "Spring Boot", "Postman", "Volley", "Android Studio"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com/Adoptm"
+      "source": "https://www.github.com/jewell-owen/Adoptm"
     },
     {
       "title": "Cookbook Web App",
@@ -21,14 +21,14 @@
       "description": "This cookbook application was created using the MERN stack. MongoDB, Express, React.JS, Node.JS. The app allows users to view, post, and edit the information for recipes including ingredients, instructions, and pictures.",
       "skills": ["MongoDB", "Express", "React", "Node", "JavaScript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com/CookBookWebApplication"
+      "source": "https://www.github.com/jewell-owen/CookBookWebApplication"
     },
     {
       "title": "MIPS Processor",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "imageSrc": "projects/processorSrc.png",
+      "description": "This hardware model of a MIPS processor was created using VHDL. The project included both a software and hardware pipelined version. The pipeline is 5 stages and makes use of data forwarding. The hardware pipeline includes static branch prediction. ",
       "skills": ["VHDL", "MIPS Assembly"],
-      "demo": "https://www.ex/MIPS-Single-Cycle-Processorample.com",
-      "source": "https://www.github.com/MIPS-Single-Cycle-Processor"
+      "demo": "projects/processorSrc.png",
+      "source": "https://www.github.com/jewell-owen/MIPS-Single-Cycle-Processor"
     }
   ]
