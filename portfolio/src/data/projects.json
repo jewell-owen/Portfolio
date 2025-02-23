@@ -1,26 +1,34 @@
 [
     {
       "title": "FitTrack",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "imageSrc": "projects/FitTrackSrc.png",
+      "description": "This fitness tracking app was created in Android Studio using Java. I was responsible for all of the profile and workout functionality. This included workout plans, sets/reps tracking, and exercise selection from exercise API.",
+      "skills": ["Java", "Firebase", "Android Studio", "Exercise API"],
+      "demo": "projects/FitTrack.mp4",
+      "source": "https://github.com/jewell-owen/FitTrack"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "Adoptm",
+      "imageSrc": "projects/AdoptmSrc.png",
+      "description": "This pet adoption app was created in Android Studio using Java. The project group followed the SCRUM model with an issue board, sprints, and code reviews. GitLab CI/CD was used for faster testing and devlopment.",
+      "skills": ["Java", "Spring Boot", "Postman", "REST API", "Android Studio"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://www.github.com/Adoptm"
     },
     {
-      "title": "Project C",
+      "title": "Cookbook Web App",
+      "imageSrc": "projects/CookbookSrc.png",
+      "description": "This cookbook application was created using the MERN stack. MongoDB, Express, React.JS, Node.JS. The app allows users to view, post, and edit the information for recipes including ingredients, instructions, and pictures.",
+      "skills": ["MongoDB", "Express", "React", "Node", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/CookBookWebApplication"
+    },
+    {
+      "title": "MIPS Processor",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["VHDL", "MIPS Assembly"],
+      "demo": "https://www.ex/MIPS-Single-Cycle-Processorample.com",
+      "source": "https://www.github.com/MIPS-Single-Cycle-Processor"
     }
   ]
