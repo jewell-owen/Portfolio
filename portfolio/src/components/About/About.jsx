@@ -9,7 +9,7 @@ import uiIcon from "../../../assets/about/uiIcon.png";
 export const About = () => {
     return (
         <section className={styles.container} id="about">
-            <h2 className={styles.title}>About</h2>
+            <h2 className={styles.title}>Education</h2>
             <div className={styles.content}>
             <img 
                 src={iowaStateLogo}
@@ -39,7 +39,9 @@ export const About = () => {
                     <div className={styles.aboutItemsText}>
                         <h3>Computer Engineering Major</h3>
                         <p>
-                            I have experince working with both hardware and software throughout my classwork
+                            Object Oriented Programming, Software Development Practices, 
+                            Construction of User Interfaces, Embedded Systems I & II Operating Systems: Principles and Practice, 
+                            Computer Networking, Network Protocols and Security
                         </p>
                     </div>
                 </li>
