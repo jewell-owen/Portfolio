@@ -34,5 +34,9 @@
     {
       "title": "MySQL",
       "imageSrc": "skills/mySQL.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
     } 
   ]
