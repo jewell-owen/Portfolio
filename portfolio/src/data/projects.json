@@ -20,7 +20,7 @@
       "imageSrc": "projects/AdoptmSrc.png",
       "description": "This pet adoption app frontend was created in Android Studio using Java. The backend was created with Spring Boot in Java. The project group followed the SCRUM model with an issue board, sprints, and code reviews. GitLab CI/CD was used for faster testing and devlopment.",
       "skills": ["Java", "Spring Boot", "Postman", "Volley", "Android Studio"],
-      "demo": "https://www.example.com",
+      "demo": "projects/Adoptm.mp4",
       "source": "https://www.github.com/jewell-owen/Adoptm"
     },
     {
