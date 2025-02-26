@@ -3,7 +3,7 @@ import styles from "./About.module.css";
 
 export const About = () => {
     return (
-        <section className={styles.container} id="about">
+        <section className={styles.container} id="education">
             <h2 className={styles.title}>Education</h2>
             <div className={styles.content}>
                 {/* Corrected Image Path */}
