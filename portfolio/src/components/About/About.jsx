@@ -22,7 +22,7 @@ export const About = () => {
                         <div className={styles.aboutItemsText}>
                             <h3>Iowa State University</h3>
                             <p>
-                                Expected Graduation 2026<br />
+                                Expected Graduation May 2026<br />
                                 GPA: 3.8
                             </p>
                         </div>
