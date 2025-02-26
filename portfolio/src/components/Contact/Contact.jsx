@@ -21,14 +21,14 @@ export const Contact = () => {
                         src={`${import.meta.env.BASE_URL}assets/contact/linkedinIcon.png`} 
                         alt="LinkedIn icon"
                     />
-                    <a href="https://www.linkedin.com/in/owen-jewell">linkedin.com/owen-jewell</a>
+                    <a href="https://www.linkedin.com/in/owen-jewell" target="_blank" rel="noopener noreferrer">linkedin.com/owen-jewell</a>
                 </li>
                 <li className={styles.link}>
                     <img 
                         src={`${import.meta.env.BASE_URL}assets/contact/githubIcon.png`} 
                         alt="GitHub icon"
                     />
-                    <a href="https://www.github.com/jewell-owen">github.com/jewell-owen</a>
+                    <a href="https://www.github.com/jewell-owen" target="_blank" rel="noopener noreferrer" >github.com/jewell-owen</a>
                 </li>
             </ul>
         </footer>

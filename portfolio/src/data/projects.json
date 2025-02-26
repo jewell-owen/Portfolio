@@ -4,7 +4,7 @@
       "imageSrc": "projects/FitTrackSrc.png",
       "description": "This fitness tracking app was created in Android Studio using Java. I was responsible for all of the profile and workout functionality. This included workout plans, sets/reps tracking, and exercise selection from exercise API.",
       "skills": ["Java", "Firebase", "Android Studio", "Exercise API"],
-      "demo": "/assets/projects/FitTrack.mp4",
+      "demo": "projects/FitTrack.mp4",
       "source": "https://github.com/jewell-owen/FitTrack"
     },
     {
@@ -20,7 +20,7 @@
       "imageSrc": "projects/AdoptmSrc.png",
       "description": "The frontend for this pet adoption app was created in Android Studio using Java. The backend was created with Spring Boot in Java. The project group followed the SCRUM model with an issue board, sprints, and code reviews. GitLab CI/CD used for faster testing.",
       "skills": ["Java", "Spring Boot", "Postman", "Volley", "Android Studio"],
-      "demo": "/assets/projects/Adoptm.mp4",
+      "demo": "projects/Adoptm.mp4",
       "source": "https://www.github.com/jewell-owen/Adoptm"
     },
     {
