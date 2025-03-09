@@ -37,7 +37,7 @@ export const About = () => {
                             <p>
                                 Object Oriented Programming, Introduction to Data Structures, Software Development Practices, 
                                 Construction of User Interfaces, Embedded Systems I & II, Operating Systems Principles and Practice, 
-                                Computer Networking, Network Protocols and Security
+                                Computer Networking, Network Protocols and Security, Linux Operating Systems Essentials
                             </p>
                         </div>
                     </li>
