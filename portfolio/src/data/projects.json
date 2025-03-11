@@ -25,7 +25,7 @@
     },
     {
       "title": "MIPS Processor",
-      "imageSrc": "projects/processorSrc.png",
+      "imageSrc": "projects/processorContrast.png",
       "description": "This hardware model of a MIPS processor was created using VHDL. The project includes both a software and hardware pipelined version. The pipeline is 5 stages and uses data forwarding. The hardware pipeline includes static branch prediction with a max clock frequency of 44.48 MHz and a cycle time of 22.48 ns. ",
       "skills": ["VHDL", "MIPS Assembly"],
       "demo": "https://docs.google.com/document/d/1AMAf6AxKLtcJh-mIefZVZdvNaN8RkzDu/edit?usp=sharing&ouid=109951964884334719640&rtpof=true&sd=true",
