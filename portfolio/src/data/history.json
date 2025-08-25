@@ -1,28 +1,18 @@
 [
     {
-      "role": "CS & Software Engineering Club",
-      "organisation": "",
-      "startDate": "2025",
+      "role": "Student Embedded Software Engineer",
+      "organisation": "Madison Scientific",
+      "startDate": "September 2025",
       "endDate": "Present",
-      "experiences": ["Leetcode practice", "CS and software engineering learning topics"],
-      "imageSrc": "history/CSEClubLogo.png"
+      "experiences": ["Embedded C programming for EFR32BG24 processor on custom PCB with BLE stack", "Daily use of GitHub project management tools including issues, pull requests, and project boards"],
+      "imageSrc": "history/madsci_logo.png"
     },
     {
-      "role": "Tau Beta Pi",
-      "organisation": "",
-      "startDate": "2025",
-      "endDate": "Present",
-      "experiences": ["Engineering Honors Society", "Elligible based on class rank"],
-      "imageSrc": "history/tbp.jpg"
-    },
-    {
-      "role": "Ultimate Frisbee Club",
-      "organisation": "",
-      "startDate": "2022",
-      "endDate": "Present",
-      "experiences": [
-        "Vice President - 2024",
-        "Strength & Conditioning Chair - 2023"],
-      "imageSrc": "history/isuc.jpg"
+      "role": "Firmware Engineering Intern",
+      "organisation": "Madison Scientific",
+      "startDate": "May 2025",
+      "endDate": "August 2025",
+      "experiences": ["Embedded C programming for EFR32BG24 processor including custom I2C and BLE drivers for peripherals: BMP581 Pressure Sensor & ADS122C04 ADC", "Daily use of Oscilliscope, Logic Analyzer, Multimeter, and JTAG for debugging"],
+      "imageSrc": "history/madsci_logo.png"
     }
   ]

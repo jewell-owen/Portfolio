@@ -49,7 +49,7 @@ export const About = () => {
                         <div className={styles.aboutItemsText}>
                             <h3>Applied AI Minor</h3>
                             <p>
-                                After completing my minor, I will have experience with AI programming, AI ethics, and machine learning.
+                                After completing my minor, I will have experience with AI programming, machine learning, and AI ethics.
                             </p>
                         </div>
                     </li>

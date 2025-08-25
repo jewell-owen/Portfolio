@@ -1,11 +1,19 @@
 [
     {
-      "title": "Java",
-      "imageSrc": "skills/java.png"
-    },
-    {
       "title": "C",
       "imageSrc": "skills/C.png"
+    },
+    {
+      "title": "I2C",
+      "imageSrc": "skills/i2c.png"
+    },
+    {
+      "title": "BLE",
+      "imageSrc": "skills/ble.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
     },
     {
       "title": "Python",

@@ -1,5 +1,13 @@
 [
     {
+      "title": "Senior Design Project",
+      "imageSrc": "",
+      "description": "Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, ",
+      "skills": [""],
+      "demo": "",
+      "source": ""
+    }, 
+    {
       "title": "FitTrack",
       "imageSrc": "projects/FitTrackSrc.png",
       "description": "This fitness tracking app was created in Android Studio using Java. I was responsible for all of the profile and workout functionality. This included workout plans, sets/reps tracking, and exercise selection from exercise API.",
@@ -7,6 +15,14 @@
       "demo": "/Portfolio/assets/projects/FitTrack.mp4",
       "source": "https://github.com/jewell-owen/FitTrack"
     },
+    {
+      "title": "IRobot Roomba",
+      "imageSrc": "",
+      "description": "IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, ",
+      "skills": [""],
+      "demo": "",
+      "source": ""
+    }, 
     {
       "title": "Cookbook Web App",
       "imageSrc": "projects/CookbookSrc.png",
@@ -22,6 +38,14 @@
       "skills": ["Java", "Spring Boot", "Postman", "Volley", "Android Studio"],
       "demo": "/Portfolio/assets/projects/Adoptm.mp4",
       "source": "https://www.github.com/jewell-owen/Adoptm"
+    },
+    {
+      "title": "Crash Notification Helmet",
+      "imageSrc": "",
+      "description": "Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, ",
+      "skills": [""],
+      "demo": "",
+      "source": ""
     },
     {
       "title": "MIPS Processor",
