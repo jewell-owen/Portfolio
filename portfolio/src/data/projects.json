@@ -41,11 +41,11 @@
     },
     {
       "title": "Crash Notification Helmet",
-      "imageSrc": "",
-      "description": "Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, Crash Notification Helmet, ",
-      "skills": [""],
-      "demo": "",
-      "source": ""
+      "imageSrc": "projects/SmartHelmetSrc.png",
+      "description": "The first component of the project was an Arduino Nano prgrammed with C++ to send data to a Flutter App. The data included the result of a basic crash detection algorithm which would trigger an SMS message sent to preset emergency contacts using the Twilio API. The components were soldered and inserted into the padding of a motorcycle helmet",
+      "skills": ["C++", "Flutter", "Arduino", "Twilio API"],
+      "demo": "/Portfolio/assets/projects/SmartHelmetPresentation.pdf",
+      "source": "https://www.github.com/jewell-owen/Smart-Motorcycle-Helmet"
     },
     {
       "title": "MIPS Processor",
