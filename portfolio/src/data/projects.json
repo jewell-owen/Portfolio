@@ -17,11 +17,11 @@
     },
     {
       "title": "IRobot Roomba",
-      "imageSrc": "",
-      "description": "IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, IRobot Roomba, ",
-      "skills": [""],
-      "demo": "",
-      "source": ""
+      "imageSrc": "projects/IRobotSrc.jpg",
+      "description": "My team and I developed an embedded C program to blindly navigate a randomized course of obstacles using datasheet info. We also implemented a Python GUI used to visualize raw IR and Ping scan data from PuTTY while we navigated in under 20 minutes.",
+      "skills": ["C", "UART", "PWM", "Python"],
+      "demo": "/Portfolio/assets/projects/IRobotSketch.png",
+      "source": "https://github.com/jewell-owen/IRobotFinalProject"
     }, 
     {
       "title": "Cookbook Web App",
@@ -42,7 +42,7 @@
     {
       "title": "Crash Notification Helmet",
       "imageSrc": "projects/SmartHelmetSrc.png",
-      "description": "The first component of the project was an Arduino Nano prgrammed with C++ to send data to a Flutter App. The data included the result of a basic crash detection algorithm which would trigger an SMS message sent to preset emergency contacts using the Twilio API. The components were soldered and inserted into the padding of a motorcycle helmet",
+      "description": "The first component of the project was an Arduino Nano prgrammed with C++ to send data to a Flutter App. The data included the result of a basic crash detection algorithm which would trigger an SMS message sent to preset emergency contacts using the Twilio API.",
       "skills": ["C++", "Flutter", "Arduino", "Twilio API"],
       "demo": "/Portfolio/assets/projects/SmartHelmetPresentation.pdf",
       "source": "https://www.github.com/jewell-owen/Smart-Motorcycle-Helmet"
