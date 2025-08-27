@@ -20,27 +20,37 @@ export const Experience = () => {
                         );
                         })}
                         </div>
-                <ul className={styles.history}>
-                    {
-                        history.map((historyItem, id) => {
-                            return (<li key={id} className={styles.historyItem}>
-                                <img src={`${import.meta.env.BASE_URL}assets/${historyItem.imageSrc}`}
-                                alt={`${historyItem.organisation} Logo`}>
-                                </img>
-                                <div className={styles.historyItemDetails}>
-                                    <h3>{`${historyItem.role}`}</h3>
-                                    {/*- ${historyItem.organisation} */}
-                                    <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
-                                    <ul>{historyItem.experiences.map((expereince, id) => {
-                                        return <li key={id}>{expereince}</li>;
-                                    })}
-                                        </ul>
-                                </div>
-                            </li>
-                            );
-                        })
-                    }
-                </ul>
+<ul className={styles.history}>
+    {
+        history.map((historyItem, id) => {
+            return (
+                <li key={id} className={styles.historyItem}>
+                    <div className={styles.historyHeader}>
+                        <h3>{historyItem.role}</h3>
+                        <h4>{historyItem.organisation}</h4>
+                        <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
+                    </div>
+                    <div className={styles.historyBody}>
+                        <img
+                            src={`${import.meta.env.BASE_URL}assets/${historyItem.imageSrc}`}
+                            alt={`${historyItem.organisation} Logo`}
+                        />
+                        <div className={styles.historyItemDetails}>
+                            <ul>
+                                {historyItem.experiences.map((expereince, idx) => (
+                                    <React.Fragment key={idx}>
+                                        <li>{expereince}</li>
+                                        {idx !== historyItem.experiences.length - 1 && <br />}
+                                    </React.Fragment>
+                                ))}
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            );
+        })
+    }
+</ul>
             </div>
             </section>
     );
