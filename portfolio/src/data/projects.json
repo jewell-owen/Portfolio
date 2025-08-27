@@ -1,13 +1,5 @@
 [
     {
-      "title": "Senior Design Project",
-      "imageSrc": "",
-      "description": "Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, Senior Design, ",
-      "skills": [""],
-      "demo": "",
-      "source": ""
-    }, 
-    {
       "title": "FitTrack",
       "imageSrc": "projects/FitTrackSrc.png",
       "description": "This fitness tracking app was created in Android Studio using Java. I was responsible for all of the profile and workout functionality. This included workout plans, sets/reps tracking, and exercise selection from exercise API.",
