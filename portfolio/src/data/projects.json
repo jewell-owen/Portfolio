@@ -1,5 +1,29 @@
 [
     {
+      "title": "MIPS Processor",
+      "imageSrc": "projects/processorContrast.png",
+      "description": "This hardware model of a MIPS processor was created using VHDL. The project includes both a software and hardware pipelined version. The pipeline is 5 stages and uses data forwarding. The hardware pipeline includes static branch prediction with a max clock frequency of 44.48 MHz and a cycle time of 22.48 ns. ",
+      "skills": ["VHDL", "MIPS Assembly"],
+      "demo": "https://docs.google.com/document/d/1AMAf6AxKLtcJh-mIefZVZdvNaN8RkzDu/edit?usp=sharing&ouid=109951964884334719640&rtpof=true&sd=true",
+      "source": "https://www.github.com/jewell-owen/MIPS-Single-Cycle-Processor"
+    },
+    {
+      "title": "Crash Notification Helmet",
+      "imageSrc": "projects/SmartHelmetSrc2.png",
+      "description": "The first component of the project was an Arduino Nano programmed with C++ to send data to a Flutter App. The data included the result of a basic crash detection algorithm which would trigger an SMS message sent to preset emergency contacts using the Twilio API.",
+      "skills": ["C++", "Flutter", "Arduino", "Twilio API"],
+      "demo": "/Portfolio/assets/projects/SmartHelmetPresentation.pdf",
+      "source": "https://www.github.com/jewell-owen/Smart-Motorcycle-Helmet"
+    },
+    {
+      "title": "IRobot Roomba",
+      "imageSrc": "projects/IRobotSrc.jpg",
+      "description": "My team and I developed an embedded C program to blindly navigate a randomized course of obstacles using datasheet info. We also implemented a Python GUI used to visualize raw IR and Ping scan data from PuTTY while we navigated the course in under 20 minutes.",
+      "skills": ["C", "UART", "PWM", "Python"],
+      "demo": "/Portfolio/assets/projects/IRobotSketch.png",
+      "source": "https://github.com/jewell-owen/IRobotFinalProject"
+    }, 
+    {
       "title": "FitTrack",
       "imageSrc": "projects/FitTrackSrc.png",
       "description": "This fitness tracking app was created in Android Studio using Java. I was responsible for all of the profile and workout functionality. This included workout plans, sets/reps tracking, and exercise selection from exercise API.",
@@ -7,14 +31,6 @@
       "demo": "/Portfolio/assets/projects/FitTrack.mp4",
       "source": "https://github.com/jewell-owen/FitTrack"
     },
-    {
-      "title": "IRobot Roomba",
-      "imageSrc": "projects/IRobotSrc.jpg",
-      "description": "My team and I developed an embedded C program to blindly navigate a randomized course of obstacles using datasheet info. We also implemented a Python GUI used to visualize raw IR and Ping scan data from PuTTY while we navigated in under 20 minutes.",
-      "skills": ["C", "UART", "PWM", "Python"],
-      "demo": "/Portfolio/assets/projects/IRobotSketch.png",
-      "source": "https://github.com/jewell-owen/IRobotFinalProject"
-    }, 
     {
       "title": "Cookbook Web App",
       "imageSrc": "projects/CookbookSrc.png",
@@ -30,21 +46,6 @@
       "skills": ["Java", "Spring Boot", "Postman", "Volley", "Android Studio"],
       "demo": "/Portfolio/assets/projects/Adoptm.mp4",
       "source": "https://www.github.com/jewell-owen/Adoptm"
-    },
-    {
-      "title": "Crash Notification Helmet",
-      "imageSrc": "projects/SmartHelmetSrc.png",
-      "description": "The first component of the project was an Arduino Nano prgrammed with C++ to send data to a Flutter App. The data included the result of a basic crash detection algorithm which would trigger an SMS message sent to preset emergency contacts using the Twilio API.",
-      "skills": ["C++", "Flutter", "Arduino", "Twilio API"],
-      "demo": "/Portfolio/assets/projects/SmartHelmetPresentation.pdf",
-      "source": "https://www.github.com/jewell-owen/Smart-Motorcycle-Helmet"
-    },
-    {
-      "title": "MIPS Processor",
-      "imageSrc": "projects/processorContrast.png",
-      "description": "This hardware model of a MIPS processor was created using VHDL. The project includes both a software and hardware pipelined version. The pipeline is 5 stages and uses data forwarding. The hardware pipeline includes static branch prediction with a max clock frequency of 44.48 MHz and a cycle time of 22.48 ns. ",
-      "skills": ["VHDL", "MIPS Assembly"],
-      "demo": "https://docs.google.com/document/d/1AMAf6AxKLtcJh-mIefZVZdvNaN8RkzDu/edit?usp=sharing&ouid=109951964884334719640&rtpof=true&sd=true",
-      "source": "https://www.github.com/jewell-owen/MIPS-Single-Cycle-Processor"
     }
+
   ]
