@@ -5,3 +5,5 @@ This is a React portfolio website built with Vite for fast performance. The app 
 `npm run dev` - run the app locally and view at localhost URL displayed in terminal
 
 `npm run build` - Create the dist folder used for deployment
+
+`npm run deploy` - Run deploy script from package.json to update GitHub pages
