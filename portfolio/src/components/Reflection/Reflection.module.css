@@ -1,0 +1,32 @@
+.container {
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.list {
+  list-style: disc inside;
+  font-size: 20px;
+}
+
+.list a {
+  color: var(--color-link, #1a73e8);
+  text-decoration: underline;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+  /* Add any additional margin or padding if needed for indentation */
+}
