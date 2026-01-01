@@ -35,7 +35,7 @@ export const About = () => {
                         <div className={styles.aboutItemsText}>
                             <h3>Computer Engineering Major</h3>
                             <p>
-                                Object Oriented Programming, Introduction to Data Structures, Design and Analysis of Algorithims, Software Development Practices, 
+                                Object Oriented Programming, Introduction to Data Structures, Design and Analysis of Algorithms, Software Development Practices, 
                                 Construction of User Interfaces, Embedded Systems I & II, Operating Systems Principles and Practice, 
                                 Computer Networking, Network Protocols and Security, and Linux Operating Systems Essentials
                             </p>

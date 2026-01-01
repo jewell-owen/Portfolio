@@ -7,6 +7,15 @@ import { ProjectCard } from "./ProjectCard";
 
 
 export const Projects = () => {
+
+    //     {
+    //   "title": "First Responder Drone",
+    //   "imageSrc": "projects/droneSrc.jpg",
+    //   "description": "This is my senior deisgn project. The drone is designed to deliver a medical payload or collect on the scene information for First Responders. I worked on the embedded C for the flight control logic of the drone. I also worked on the C logic for the sensor package.",
+    //   "skills": ["Embedded C", "Java", "Python"],
+    //   "demo": "",
+    //   "source": ""
+    // }
     
     return (
         <section className={styles.container} id="projects">
